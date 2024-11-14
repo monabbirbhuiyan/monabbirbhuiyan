@@ -7,6 +7,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=monabbirbhuiyan&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=monabbir-hub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
