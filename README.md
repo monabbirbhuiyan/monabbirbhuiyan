@@ -1,5 +1,5 @@
 # Hello World!, I'm Monabbir, a Bangladeshi Web Developer 👋🏼:
-🛜 currently working on [kyokushinbangladeshwebsite](https://github.com/monabbirbhuiyan/kyokushinbd)<br>👨🏼‍🎓 studying Software Engineering at York university<br>👨🏼‍💻 working as a web developer since 2022 <br>
+🛜 currently working on [kyokushin bangladesh website](https://github.com/monabbirbhuiyan/kyokushinbd)<br>👨🏼‍🎓 studying Software Engineering at York university<br>👨🏼‍💻 working as a web developer since 2022 <br>
 
 
 # 💻 Tech Stack:
