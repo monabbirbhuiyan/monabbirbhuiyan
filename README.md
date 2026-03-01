@@ -1,5 +1,5 @@
 # Hello World!, I'm Monabbir, a SAAS creator 👋🏼:
-🛜 currently working on [Suika](https://www.suika-app.com)<br>👨🏼‍🎓 studying Software Engineering at York university<br>👨🏼‍💻 working as a web developer since 2022 <br>
+🛜 currently working on [Suika](https://www.suika-app.com)<br>👨🏼‍🎓 studying Software Engineering at York university<br>
 
 
 # 💻 Tech Stack:
